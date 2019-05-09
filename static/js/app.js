@@ -44,10 +44,10 @@ function buildCharts(sample) {
       y: sample_values,
       mode: 'markers',
       text: otu_labels,
-      colorscale: 'Electric',
       marker: {
         size: sample_values,
-        color: otu_ids
+        color: otu_ids,
+        colorscale: 'Electric'
       }
     }]
 
