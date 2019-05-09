@@ -2,6 +2,10 @@
 
 
 In this assignment, I've built an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+
+<kbd>
+<img src="/Images/belly_button.png" width="700" height="700" style="border: 1px solid black"/>
+</kbd>
 - - -
 
 
@@ -21,13 +25,13 @@ In this assignment, I've built an interactive dashboard to explore the [Belly Bu
 Use Plotly.js to build interactive charts for the dashboard. 
 
 * PIE chart that uses data from your samples route (`/samples/<sample>`) to display the top 10 samples.
-
-  ![PIE Chart](Images/pie_chart.png)
-
+<kbd>
+<img src="/Images/pie_chart.png" width="300" height="300"/>
+</kbd>
 * Created a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
-
-  ![Bubble Chart](Images/bubble_chart.png)
-
+<kbd>
+<img src="/Images/bubble.png" width="700" height="300"/>
+</kbd>
 * Display the sample metadata from the route `/metadata/<sample>` in the page.
 
 * Update all of the plots any time that a new sample is selected.
