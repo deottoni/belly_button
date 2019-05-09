@@ -29,7 +29,7 @@ Use Plotly.js to build interactive charts for the dashboard.
 <img src="/Images/pie_chart.png" width="300" height="300"/>
 </kbd>
 
-* Created a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
+* Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
 <kbd>
 <img src="/Images/bubble.png" width="700" height="300"/>
 </kbd>
@@ -37,6 +37,9 @@ Use Plotly.js to build interactive charts for the dashboard.
 * Display the sample metadata from the route `/metadata/<sample>` in the page.
 
 * Update all of the plots any time that a new sample is selected.
+
+* Increased html column sizes to better fit pie chart and metadata table
+
 
 - - -
 
