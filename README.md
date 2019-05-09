@@ -2,6 +2,8 @@
 
 
 In this assignment, I've built an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+- - -
+
 
 ## Technologies 
 * JavaScript
@@ -11,6 +13,7 @@ In this assignment, I've built an interactive dashboard to explore the [Belly Bu
 * Flask
 * Sqlite
 * Heroku
+- - -
 
 
 ## Step 1 - Plotly.js 
