@@ -55,7 +55,7 @@ function buildCharts(sample) {
       xaxis: { title: "OTU ID" }
   };
 
-    Plotly.newPlot("bubble",bubble_data,bubble_layout)
+    Plotly.newPlot("bubble",bubble_data,bubble_layout, {responsive: true})
 
   
 
